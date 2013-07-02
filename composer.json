@@ -1,0 +1,15 @@
+{
+    "name": "taalendigitaal/chart.js",
+    "description": "Chart.js",
+    "type": "component",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "scripts": [
+                "chart.js"
+            ]
+        }
+    }
+}
